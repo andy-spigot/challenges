@@ -2,6 +2,8 @@
 
 The Bukkit/Spigot plugin that lets you configure over 400 different challenges for your players to complete!
 
+If you've been directed here from spigot, continue reading.
+
 ## Your configuration files are incompatible with this version of Challenges!
 
 If you're receiving this message when you enable Challenges on your server, you have a couple of options. 
